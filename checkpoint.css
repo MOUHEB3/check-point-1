@@ -1,0 +1,15 @@
+.nav{
+   display: inline-block; 
+   font-family: 'Roboto';
+   padding: 10px 110px;
+
+}
+nav{
+   background-color: grey;
+}
+body{
+margin: 0px;
+}
+a{
+   color: rgb(10, 68, 10);
+}
